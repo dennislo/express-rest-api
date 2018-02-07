@@ -25,7 +25,7 @@
     }
   },
   "repository": "developit/express-es6-rest-api",
-  "author": "Jason Miller <jason@developit.ca>",
+  "author": "Dennis Lo <lo.dennis@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.13.3",
